@@ -82,15 +82,13 @@ Desenvolvo soluções orientadas por dados utilizando imagens de satélite, Pyth
     - Classificação supervisionada — Random Forest, XGBoost
     - Deep Learning para segmentação de imagens — U-Net, SAM
     - scikit-learn, PyTorch, TensorFlow
-    - Detecção de objetos em imagens de satélite
 
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
+    - Armazenamento em nuvem — AWS S3
+    - Formatos de dados geoespaciais — GeoTIFF, GeoParquet e NetCDF
     - Streamlit for data-driven web apps
 
 -   :material-database:{ .lg .middle } **Data & Cloud**
@@ -103,9 +101,8 @@ Desenvolvo soluções orientadas por dados utilizando imagens de satélite, Pyth
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    - Planejamento de missões e operações de voo
+    
 </div>
 
 
