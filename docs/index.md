@@ -27,7 +27,7 @@ CHECKLIST FOR THIS PAGE:
 
 ---
 
-## About Me
+## Sobre mim
 
 <div class="about-section" markdown>
 <div class="about-text" markdown>
@@ -54,7 +54,7 @@ Desenvolvo soluções orientadas por dados utilizando imagens de satélite, Pyth
 
 ---
 
-## Skills
+## Competências Técnicas
 
 <div class="grid cards" markdown>
 
@@ -65,13 +65,13 @@ Desenvolvo soluções orientadas por dados utilizando imagens de satélite, Pyth
     - QGIS, ArcGIS Pro, Google Earth Engine
     - GDAL / OGR, GRASS GIS
     - Análise de imagens multiespectrais
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    
 
--   :material-code-braces:{ .lg .middle } **Programming**
+-   :material-code-braces:{ .lg .middle } **Programação & Bancos de Dados**
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
+    - Python — GeoPandas, NumPy
     - R — sf, terra, ggplot2
     - SQL, PostgreSQL + PostGIS
 
@@ -80,7 +80,7 @@ Desenvolvo soluções orientadas por dados utilizando imagens de satélite, Pyth
     ---
 
     - Classificação supervisionada — Random Forest, XGBoost
-    - Deep Learning para segmentação de imagens — U-Net, SAM
+    - Deep Learning para segmentação 
     - scikit-learn, PyTorch, TensorFlow
 
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
@@ -88,7 +88,7 @@ Desenvolvo soluções orientadas por dados utilizando imagens de satélite, Pyth
     ---
 
     - Armazenamento em nuvem — AWS S3
-    - Formatos de dados geoespaciais — GeoTIFF, GeoParquet e NetCDF
+    - Formatos de dados  — GeoTIFF, GeoParquet e NetCDF
     - Streamlit for data-driven web apps
 
 -   :material-database:{ .lg .middle } **Data & Cloud**
@@ -99,9 +99,12 @@ Desenvolvo soluções orientadas por dados utilizando imagens de satélite, Pyth
     - Armazenamento em nuvem: AWS S3
     - Formatos de dados geoespaciais: GeoJSON, GeoTIFF, NetCDF, Zarr e GeoParquet
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-airplane:{ .lg .middle } **Drone / Processamento de dados**
 
-    - Planejamento de missões e operações de voo
+
+    - Planejamento de missões de voo
+    - Agisoft Metashape
+    - OpenDroneMap
     
 </div>
 
