@@ -13,20 +13,21 @@ CHECKLIST FOR THIS PAGE:
 - [ ] Delete the ResearchGate row if not applicable
 -->
 
-# Contact
+# Contato
 
-I am open to work opportunities, collaborations, and project discussions.
-Feel free to reach out through any of the channels below.
+
+Estou aberto a oportunidades de trabalho, colaborações e discussões sobre projetos.
+Fique à vontade para entrar em contato por meio de qualquer um dos canais abaixo.
 
 ---
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [fernanda.oliveeira.silva@gmail.com](mailto:[YOUR-EMAIL-ADDRESS]) |
+| :fontawesome-brands-github: **GitHub** | [github.com/FernandaFOS](https://github.com/[YOUR-GITHUB-USERNAME]) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/fernanndaoliveira](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
+| :material-school: **ResearchGate** | [researchgate.net/profile/Fernanda-Silva-65](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
 
 ---
 
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/Fernanda-CV.pdf){ .md-button .md-button--primary }

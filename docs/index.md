@@ -20,9 +20,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>Fernanda Oliveira da Silva</h1>
+  <p><strong>Engenheira Agrônoma</strong></p>
+  <p><em>Olá! Seja bem-vindo(a) ao meu portfólio. Acredito que tecnologia e dados têm o poder de transformar desafios complexos em soluções inteligentes. Sou apaixonada por programação, código limpo e pelo desenvolvimento de aplicações que unem Python, GIS, Sensoriamento Remoto e Inteligência Artificial para gerar valor em projetos de agricultura, energia e meio ambiente.</em></p>
 </div>
 
 ---
@@ -32,15 +32,11 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+Olá, eu sou Fernanda Oliveira
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+Sou Engenheira Agrônoma e Mestre em Ecossistemas Agrícolas e Naturais, com mais de 10 anos de experiência em Inteligência Geoespacial, Sensoriamento Remoto, Sistemas de Informação Geográfica (SIG) e Inteligência Artificial.
+
+Desenvolvo soluções orientadas por dados utilizando imagens de satélite, Python, R, Machine Learning e tecnologias geoespaciais para apoiar a tomada de decisão nos setores de agricultura, energia e meio ambiente.
 
 </div>
 
@@ -53,7 +49,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Fernanda-CV.pdf){ .md-button }
 
 
 ---
@@ -62,13 +58,13 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   :material-layers:{ .lg .middle } **SIG & Sensoriamento Remoto**
 
     ---
 
     - QGIS, ArcGIS Pro, Google Earth Engine
     - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
+    - Análise de imagens multiespectrais
     - Cloud Native Geospatial (COG, STAC, Zarr)
 
 -   :material-code-braces:{ .lg .middle } **Programming**
@@ -77,17 +73,16 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     - Python — GeoPandas, NumPy, Pandas, Matplotlib
     - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
     - SQL, PostgreSQL + PostGIS
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
+    - Classificação supervisionada — Random Forest, XGBoost
+    - Deep Learning para segmentação de imagens — U-Net, SAM
     - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - Detecção de objetos em imagens de satélite
 
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
@@ -103,8 +98,8 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
     ---
 
     - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Armazenamento em nuvem: AWS S3
+    - Formatos de dados geoespaciais: GeoJSON, GeoTIFF, NetCDF, Zarr e GeoParquet
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
@@ -118,5 +113,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/FernandaFOS){ .md-button }
+[LinkedIn](https://linkedin.com/in/fernanndaoliveira){ .md-button }

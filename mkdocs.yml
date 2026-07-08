@@ -7,9 +7,9 @@
 # Edit all lines marked [YOUR ...] to customize your site
 # ============================================================
 
-site_name: "[YOUR NAME] - Geospatial Portfolio"
-site_description: "Portfolio of [YOUR NAME] — GIS, Remote Sensing, and Spatial Data Science"
-site_author: "[YOUR NAME]"
+site_name: "Fernanda Oliveira da Silva - Geospatial Portfolio"
+site_description: "Portfolio of Fernanda Oliveira da Silva — GIS, Remote Sensing, and Spatial Data Science"
+site_author: "Fernanda Oliveira da Silva"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
 #site_url: "https://your-username.github.io/your-repo-name"
 
@@ -59,16 +59,17 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: "Copyright &copy; [YOUR NAME]"
+copyright: "Copyright &copy; Fernanda Oliveira da Silva"
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/[YOUR-GITHUB-USERNAME]
+      link: https://github.com/FernandaFOS
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]
+      link: https://linkedin.com/in/fernanndaoliveira
     - icon: material/email
-      link: mailto:[YOUR-EMAIL-ADDRESS]
+      link: mailto:fernanda.oliveeira.silva@gmail.com
 
 
 plugins:
