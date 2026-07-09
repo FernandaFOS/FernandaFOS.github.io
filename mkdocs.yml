@@ -7,7 +7,7 @@
 # Edit all lines marked [YOUR ...] to customize your site
 # ============================================================
 
-site_name: "Fernanda Oliveira da Silva - Geospatial Portfolio"
+site_name: "Fernanda Oliveira da Silva - Portifólio Geoespacial"
 site_description: "Portfolio of Fernanda Oliveira da Silva — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "Fernanda Oliveira da Silva"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
@@ -89,6 +89,6 @@ nav:
     # 2. Edit the new file with your project content
     # 3. Add a line below (same format): - "Your Project Title": projects/your-project-name.md
     # 4. Add a project card on docs/projects/index.md
-  - Publications: publications.md
-  - Experience: experience.md
-  - Contact: contact.md
+  - Publicações: publications.md
+  - Experiência: experience.md
+  - Contato: contact.md
