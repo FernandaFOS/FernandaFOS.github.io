@@ -111,7 +111,7 @@ Desenvolvo soluções orientadas por dados utilizando imagens de satélite, Pyth
 
 ---
 
-## Connect
+## 
 
 [GitHub](https://github.com/FernandaFOS){ .md-button }
 [LinkedIn](https://linkedin.com/in/fernanndaoliveira){ .md-button }
