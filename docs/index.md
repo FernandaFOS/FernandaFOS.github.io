@@ -71,7 +71,7 @@ Desenvolvo soluções orientadas por dados utilizando imagens de satélite, Pyth
 
     ---
 
-    - Python — GeoPandas, NumPy
+    - Python — GeoPandas, NumPy, PySpark
     - R — sf, terra, ggplot2
     - SQL, PostgreSQL + PostGIS
 
